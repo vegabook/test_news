@@ -1,0 +1,14 @@
+
+pyarrow
+pandas
+IPython
+bertopic
+numpy 
+openai
+bertopic
+datetime
+sentence_transformers  
+transformers 
+scikit-learn
+colorama
+nltk
